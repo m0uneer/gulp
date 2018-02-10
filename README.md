@@ -235,7 +235,7 @@ for a second time.
 
 If you want to compare modification time between files instead, we recommend these plugins:
 - [gulp-changed];
-- or [gulp-newer] - supports many:1 source:dest.
+- Or [gulp-newer] - supports many:1 source:dest.
 
 [gulp-newer] example:
 ```js
